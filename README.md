@@ -49,6 +49,7 @@ This will generate a random board and run the simulation.
 ## Built With
 
 -   [Python](https://www.python.org/) - The programming language used
+-   [Pygame](https://www.pygame.org/) - for the GUI
 
 ## Author
 
