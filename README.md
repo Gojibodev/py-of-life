@@ -3,7 +3,7 @@
 
 The Game of Life is a cellular automaton invented by mathematician John Horton Conway in 1970. It simulates the evolution of a population of cells on a two-dimensional grid, according to a set of simple rules.
 
-![screenshot_01](/src/screenshot_1.png)
+![screenshot_01](/src/Screenshot_1.png)
 ## Rules
 The basic rules of the Game of Life are as follows:
 
