@@ -53,7 +53,7 @@ This will generate a random board and run the simulation.
 
 ## Author
 
--   **Gojibo** - [Gojimandev](https://github.com/Gojimandev)
+-   **Gojibo** - [Gojibodev](https://github.com/Gojibodev/)
 
 ## Acknowledgments
 - [Nico](https://github.com/NicoLeiner "https://github.com/NicoLeiner") For pointing out errors in the code
